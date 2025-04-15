@@ -1,0 +1,41 @@
+# Rahmenbedingungen
+
+## Hauptziel
+Das Hauptziel des Projekts ist es, den Kindern ein fertiges Set zur Verfügung zu stellen, aus dem sie das Objekt bauen können, ohne programmieren zu müssen.
+
+## Rahmenbedingungen
+1. Etwa 27 Schüler (in Zweiergruppen)
+2. Dauer: 3 Stunden
+
+## Ablauf
+- Small Talk
+- Vorstellungsrunde
+- Erfahrungen abfragen
+- Einleitung
+- Bauphase
+- Spielphase
+
+## Abklären
+1. Ist eine zweite Person notwendig? (Kathrin könnte in Frage kommen)
+2. Materialien müssen beschafft werden, falls notwendig. Die vorhandenen Materialien müssen transportiert werden. (Nach Ostern wird eine Kiste von Frank fertiggestellt.)
+3. Gibt es eine vorhandene Ai Papproboter Location im Lab?
+
+## Materialien
+- Treiberplatinen (etwa 8 Stück)
+
+## Kontakt mit der Lehrerin aufnehmen
+- Vorstellen und Notwendigkeiten abklären
+- Zeitraum festlegen
+- Vorhandensein der Materialien überprüfen
+- Software und Hardware überprüfen (BLE-fähiger Browser, Kreuzschlitzschraubendreher)
+
+## Vorbereitung
+- Boards korrekt vorprogrammieren
+- Kits zusammenstellen (Board, Pappe, Batterie, Sensor usw.) (Labeling für BLE Pairing)
+- Verteildienst einbeziehen (Educational)
+
+## Sonstiges
+- Skizzen der Pappe anfertigen und Bemaßung durchführen
+- Dokumente zum Projekt vorbereiten
+- Kontaktdaten der Lehrerin von Frank erhalten
+
