@@ -9,6 +9,9 @@ The micro:bit board is used, supporting BLE, temperature sensing, gyroscope, lig
 ## Workshop Details
 
 ### Cardboard Remote-Controlled Car
+
+![Motor](./Assets/motor.png)
+
 Create a remote-controlled car from cardboard, controlled via mobile devices.
 - **Materials**: micro:bit, DF-Robot motor control board, 5V battery pack, rubber wheels, 360-degree servo motors.
 - **Activities**: Assembly, basic programming with MakeCode.
