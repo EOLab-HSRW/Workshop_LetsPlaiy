@@ -58,6 +58,25 @@ Create a micro:bit wearable rock-paper-scissors game.
 - **Duration**: 3 school hours
 - **Age**: 10-12 years
 
+
+### Possible Implementation
+
+#### Cardboard Remote-Controlled Car
+![Motor-Sketch](./Assets/motor_sketch.png)
+
+#### Ultrasonic Distance Warner
+![Ultra-Sketch](./Assets/ultra_sketch.png)
+
+#### Plant Watering System
+![Plant-Sketch](./Assets/plant_sketch.png)
+
+#### Reaction Time Tester
+![React-Sketch](./Assets/react_sketch.png)
+
+#### Rock-Paper-Scissors Wearable
+![Band](./Assets/band_sketch.png)
+
+
 ## Additional Resources
 - **Product Details**: [NRF52833-QIAA-B-R](https://www.mouser.de/ProductDetail/Nordic-Semiconductor/NRF52833-QIAA-B-R?qs=QNEnbhJQKvZJgEeQ4YvY6A%3D%3D&srsltid=AfmBOooqhyATLsEwSMoCtS5QGuVrmZizfp8Re_mR3uQiQ8FBH__UMQIP)
 - **Datasheet**: [NRF52833-QIAA-B-R](https://www.mouser.de/datasheet/2/297/nRF52833_SoC_Product_Brief-1815256.pdf)
