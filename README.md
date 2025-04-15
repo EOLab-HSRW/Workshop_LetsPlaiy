@@ -19,6 +19,9 @@ Create a remote-controlled car from cardboard, controlled via mobile devices.
 - **Age**: 10-12 years
 
 ### Ultrasonic Distance Warner
+
+![Ultra](./Assets/ultra.png)
+
 Build a digital distance warning system with an ultrasonic sensor.
 - **Materials**: micro:bit, breadboard, ultrasonic sensor, OLED/LCD display, LED traffic light.
 - **Activities**: Programming logic, hardware assembly.
@@ -26,6 +29,9 @@ Build a digital distance warning system with an ultrasonic sensor.
 - **Age**: 11-13 years
 
 ### Plant Watering System
+
+![Plant](./Assets/plant.png)
+
 Construct an automated plant watering system.
 - **Materials**: micro:bit, Rekabit control board, moisture sensor, water pump, servo motor, OLED display.
 - **Activities**: Soil moisture detection, pump control, servo motor usage.
@@ -33,6 +39,9 @@ Construct an automated plant watering system.
 - **Age**: 11-14 years
 
 ### Reaction Time Tester
+
+![React](./Assets/react.png)
+
 Build and program a reaction time measuring device.
 - **Materials**: micro:bit, A4 cardboard, tape, aluminum foil, crocodile clips.
 - **Activities**: Algorithm creation, programming exercises.
@@ -40,6 +49,9 @@ Build and program a reaction time measuring device.
 - **Age**: 11-13 years
 
 ### Rock-Paper-Scissors Wearable
+
+![Band](./Assets/band.png)
+
 Create a micro:bit wearable rock-paper-scissors game.
 - **Materials**: micro:bit, cardboard/craft felt, adhesive pads, closures, decorative materials.
 - **Activities**: Wearable creation, programming for game rules.
