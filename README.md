@@ -77,6 +77,27 @@ Create a micro:bit wearable rock-paper-scissors game.
 ![Band](./Assets/band_sketch.png)
 
 
+
+## New Ideation 
+
+
+### RoboCar
+![RoboCar](./Assets/robocar.png)
+
+### H²O-Fountain
+![fountain](./Assets/fountain.png)
+
+### Crash-Alarm
+![Detect](./Assets/detect.png)
+
+### Omnitrix
+![Brace](./Assets/brace.png)
+
+### SuperHome
+![Super](./Assets/super.png)
+
+
+
 ## Additional Resources
 - **Product Details**: [NRF52833-QIAA-B-R](https://www.mouser.de/ProductDetail/Nordic-Semiconductor/NRF52833-QIAA-B-R?qs=QNEnbhJQKvZJgEeQ4YvY6A%3D%3D&srsltid=AfmBOooqhyATLsEwSMoCtS5QGuVrmZizfp8Re_mR3uQiQ8FBH__UMQIP)
 - **Datasheet**: [NRF52833-QIAA-B-R](https://www.mouser.de/datasheet/2/297/nRF52833_SoC_Product_Brief-1815256.pdf)
