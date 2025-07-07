@@ -1,41 +1,40 @@
-# Rahmenbedingungen
+# Framework Conditions
 
-## Hauptziel
-Das Hauptziel des Projekts ist es, den Kindern ein fertiges Set zur Verfügung zu stellen, aus dem sie das Objekt bauen können, ohne programmieren zu müssen.
+## Main Goal
+The main goal of the project is to provide children with a ready-to-use kit from which they can build the object without needing to program.
 
-## Rahmenbedingungen
-1. Etwa 27 Schüler (in Zweiergruppen)
-2. Dauer: 3 Stunden
+## General Conditions
+1. Around 27 students (in pairs)
+2. Duration: 3 hours
 
-## Ablauf
-- Small Talk
-- Vorstellungsrunde
-- Erfahrungen abfragen
-- Einleitung
-- Bauphase
-- Spielphase
+## Procedure
+- Small talk  
+- Introduction round  
+- Ask about prior experience  
+- Introduction  
+- Building phase  
+- Play phase
 
-## Abklären
-1. Ist eine zweite Person notwendig? (Kathrin könnte in Frage kommen)
-2. Materialien müssen beschafft werden, falls notwendig. Die vorhandenen Materialien müssen transportiert werden. (Nach Ostern wird eine Kiste von Frank fertiggestellt.)
-3. Gibt es eine vorhandene Ai Papproboter Location im Lab?
+## To Clarify
+1. Is a second person needed?  
+2. Materials need to be procured if necessary. Existing materials must be transported. (A box will be prepared by Frank after Easter.)  
+3. Is there an existing AI cardboard robot location in the lab?
 
-## Materialien
-- Treiberplatinen (etwa 8 Stück)
+## Materials
+- Driver boards (approx. 8 pieces)
 
-## Kontakt mit der Lehrerin aufnehmen
-- Vorstellen und Notwendigkeiten abklären
-- Zeitraum festlegen
-- Vorhandensein der Materialien überprüfen
-- Software und Hardware überprüfen (BLE-fähiger Browser, Kreuzschlitzschraubendreher)
+## Contact the Teacher
+- Introduce yourself and clarify requirements  
+- Set the time frame  
+- Check availability of materials  
+- Check software and hardware (BLE-capable browser, Phillips screwdriver)
 
-## Vorbereitung
-- Boards korrekt vorprogrammieren
-- Kits zusammenstellen (Board, Pappe, Batterie, Sensor usw.) (Labeling für BLE Pairing)
-- Verteildienst einbeziehen (Educational)
+## Preparation
+- Pre-program the boards correctly  
+- Assemble kits (board, cardboard, battery, sensor, etc.) (Labeling for BLE pairing)  
+- Involve the educational distribution service
 
-## Sonstiges
-- Skizzen der Pappe anfertigen und Bemaßung durchführen
-- Dokumente zum Projekt vorbereiten
-- Kontaktdaten der Lehrerin von Frank erhalten
-
+## Miscellaneous
+- Create sketches of the cardboard and take measurements  
+- Prepare project documentation  
+- Obtain the teacher's contact information from Frank
