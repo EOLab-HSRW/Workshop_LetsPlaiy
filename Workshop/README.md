@@ -15,12 +15,13 @@ The main goal of the project is to provide children with a ready-to-use kit from
 - Building phase  
 - Play phase
 
+4. ![Tasks](./Assets/notes.png)
+
+
 ## To Clarify
 1. Is a second person needed?  
 2. Materials need to be procured if necessary. Existing materials must be transported. (A box will be prepared by Frank after Easter.)  
 3. Is there an existing AI cardboard robot location in the lab?
-
-4. ![Tasks](./Assets/notes.png)
 
 ## Materials
 - Driver boards (approx. 8 pieces)
