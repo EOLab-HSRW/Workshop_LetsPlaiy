@@ -17,8 +17,6 @@ Hagelkreuz Schule
 Pantaleonstr. 13  
 Xanten Lüttingen
 
----
-
 ### 2)
 **Contact Person:** Frau Dr. Seidel  
 **Appointment:**  
@@ -29,14 +27,11 @@ Georg Forster Gymnasium
 Moerser Str. 167  
 47475 Kamp-Lintfort
 
----
-
 ### 3)
 **Contact Person:** —  
 **Appointment:** 30.07.25, 10:00–12:30  
 **Location:** Vluyn
 
----
 
 ### 4a)
 **Appointment:** Talent-Tage Ruhr  
