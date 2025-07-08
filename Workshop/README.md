@@ -1,4 +1,4 @@
-# Framework Conditions
+# Workshop: Lets Plaiy
 
 ## Main Goal
 The main goal of the project is to provide children with a ready-to-use kit from which they can build the object without needing to program.
@@ -55,27 +55,44 @@ Moerser Str. 167
 
 4. ![Tasks](./Assets/notes.png)
 
+##  To-Do List
 
-## To Clarify
-1. Is a second person needed?  
-2. Materials need to be procured if necessary. Existing materials must be transported. (A box will be prepared by Frank after Easter.)  
-3. Is there an existing AI cardboard robot location in the lab?
+01. ✅ Prepare the bags with the components  
+02. ✅ Procure 15 PH1 screwdrivers. No longer necessary, the work was done at GFL  
+03. ✅ Assemble equipment bags:  
+  - 1x screwdriver  
+  - 2x small cardboard separators  
+  - 1x dfrobot microcontroller box (black)  
+  - 1x small BBC micro:bit board  
+  - 1x battery  
+  - small paper bag for smaller components  
+  - 2x wheel-motor complex  
+  - some laminated instructions (A5)  
+  - 1x report form (A4, folded)  
+  - 4 rubber bands  
+  - 4x pins  
+04. ✅ Design report form and instruction sheets (to be laminated)  
+05. 🟥 Find and distribute the parent letter  
+06. ✅ The potentiometer screw can be turned with a flathead 0.3/1.8 screwdriver. The potentiometers were adjusted by the team prior to the school visits  
+07. ✅ Buy A4 sticker paper for printing  
+08. ✅ Buy decorative stickers/rhinestones for cars. Compare prices between discounter and office supply store  
+09. ✅ Design stickers for printing  
+10. ✅ Cut 60 cardboard pieces of 10x28 cm for the two other groups  
+11. ✅ Book the Vito  
+12. 🟥 Replace exhausted stickers (clouds, etc.)  
+13. ✅ Procure thin cardboard to make spare chassis  
+14. 🟥 Cut new chassis sections as spares  
+15. ✅ Sort equipment and identify missing components  
+16. 🟦 Restore the component bags as far as possible  
+17. ✅ Rework the instructions: create a graphic instruction sheet and improve the construction guide  
+18. ✅ Print and laminate new instructions  
+19. 🟦 Collect images and videos from everyone's cameras  
+20. 🟦 Design a certificate for the kids featuring a photo of their group and their car, as a memento of the workshop (pick Rolf’s brain)  
+21. ✅ Prepare the GFL camera and procure an SD card  
+22. 🟥 Attach a label to the micro:bit without a label, vagov  
+23. 🟥 Configure the iPad before class (WLAN, Bluetooth)  
+24. 🟦 Ensure the camera battery is charged  
+25. ✅ Check with the Kamp-Lintfort school if tablets are available  
+26. 🟥 Check with "pul im ex" if they are interested in supplying materials for small fountain constructions and various sizes of substrate for hydraulic models (in the context of TalentTage Ruhr in September)
 
-## Materials
-- Driver boards (approx. 8 pieces)
 
-## Contact the Teacher
-- Introduce yourself and clarify requirements  
-- Set the time frame  
-- Check availability of materials  
-- Check software and hardware (BLE-capable browser, Phillips screwdriver)
-
-## Preparation
-- Pre-program the boards correctly  
-- Assemble kits (board, cardboard, battery, sensor, etc.) (Labeling for BLE pairing)  
-- Involve the educational distribution service
-
-## Miscellaneous
-- Create sketches of the cardboard and take measurements  
-- Prepare project documentation  
-- Obtain the teacher's contact information from Frank
