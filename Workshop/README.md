@@ -7,6 +7,49 @@ The main goal of the project is to provide children with a ready-to-use kit from
 1. Around 27 students (in pairs)
 2. Duration: 3 hours
 
+## Appointments
+
+### 1)
+**Contact Person:** Sabine Dückers  
+**Appointment:** 02.06.25, 12:30  
+**Location:**  
+Hagelkreuz Schule  
+Pantaleonstr. 13  
+Xanten Lüttingen
+
+---
+
+### 2)
+**Contact Person:** Frau Dr. Seidel  
+**Appointment:**  
+- 02.07.25, 13:30 (First Meeting)  
+- 10.07.25, 9:50 (Workshop)  
+**Location:**  
+Georg Forster Gymnasium  
+Moerser Str. 167  
+47475 Kamp-Lintfort
+
+---
+
+### 3)
+**Contact Person:** —  
+**Appointment:** 30.07.25, 10:00–12:30  
+**Location:** Vluyn
+
+---
+
+### 4a)
+**Appointment:** Talent-Tage Ruhr  
+**Location:** Essen  
+**Date Range:** 22.09.25 – 02.10.25  
+
+**Detailed Slots:**  
+- 22.09.25: 9:00–11:00 | 11:30–13:30  
+- 23.09.25: 9:00–11:00 | 11:30–13:30  
+- 29.09.25: 9:00–11:00 | 11:30–13:30  
+- 30.09.25: 9:00–11:00 | 11:30–13:30
+
+
 ## Procedure
 - Small talk  
 - Introduction round  
