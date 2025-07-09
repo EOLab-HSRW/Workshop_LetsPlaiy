@@ -58,26 +58,6 @@ Create a micro:bit wearable rock-paper-scissors game.
 - **Duration**: 3 school hours
 - **Age**: 10-12 years
 
-
-### Possible Implementation
-
-#### Cardboard Remote-Controlled Car
-![Motor-Sketch](./Assets/motor_sketch.png)
-
-#### Ultrasonic Distance Warner
-![Ultra-Sketch](./Assets/ultra_sketch.png)
-
-#### Plant Watering System
-![Plant-Sketch](./Assets/plant_sketch.png)
-
-#### Reaction Time Tester
-![React-Sketch](./Assets/react_sketch.png)
-
-#### Rock-Paper-Scissors Wearable
-![Band](./Assets/band_sketch.png)
-
-
-
 ## New Ideation 
 
 
