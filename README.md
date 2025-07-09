@@ -1,4 +1,4 @@
-# Workshops Using micro:bit
+# Workshops: Let Plaiy
 
 ## Overview
 These workshops introduce students to embedded programming and AI-based solutions using the micro:bit board, providing foundational knowledge of embedded systems.
