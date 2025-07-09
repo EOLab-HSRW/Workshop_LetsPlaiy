@@ -4,8 +4,8 @@
 The main goal of the project is to provide children with a ready-to-use kit from which they can build the object without needing to program.
 
 ## General Conditions
-1. Around 27 students (in pairs)
-2. Duration: 3 hours
+1. Around 30 students (in pairs)
+2. Duration: 3 school hours
 
 ## Appointments
 
