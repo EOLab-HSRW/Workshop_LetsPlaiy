@@ -29,8 +29,11 @@ Moerser Str. 167
 
 ### 3)
 **Contact Person:** —  
-**Appointment:** 30.07.25, 10:00–12:30  
-**Location:** Vluyn
+**Appointment:** 
+- 17.07.25, 15:00
+- 30.07.25, 10:00–12:30  
+**Location:** Wilhelm-Reuter-Allee 3
+              47506 Neukirchen-Vluyn
 
 
 ### 4a)
